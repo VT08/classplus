@@ -12,6 +12,7 @@ function App() {
     url: "",
     alt: "",
   });
+
   const [search, setSearch] = useState("");
   const [page, setPage] = useState(1);
   const {
